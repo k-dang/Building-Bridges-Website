@@ -1,0 +1,105 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Righteous);
+
+.navbar {
+    margin-bottom: 0 !important;
+
+}
+
+#content1{
+  background-color:#9cc6ea;
+  
+}
+
+.navbar-brand{
+    font-family: 'Righteous', cursive;
+    font-size: 40px !important;
+}
+
+#directory{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#social{
+	float: left;
+	overflow: visible;
+	position:fixed;
+	top: 40%;
+}
+
+#social ul{
+	margin:0;
+	padding:0;
+}
+
+#social ul li{
+	text-align: center;
+}
+
+#social ul li a{
+	color: #474747;
+}
+
+#social ul li a:hover{
+	color: #FFFF99;
+}
+
+
+#frontlogo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+
+#contitle{
+	font-family: 'Righteous', cursive;
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+#column-centre{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	}
+
+.img-thumbnail{
+	margin-bottom: 5px;
+}
+
+.footer{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	padding-top: 10px;
+}
+
+.footer ul{
+	list-style-type: none;
+}
+
+.footer ul li{
+	display: inline;
+}
+
+.footer ul li a{
+	text-decoration: none;
+	color: #999;
+}
+
+.footer-list{
+	margin-top: 20px;
+	color: #999;
+	padding: 0px;
+}
+
+#credits{
+	color: #999;
+}

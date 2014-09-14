@@ -11,15 +11,12 @@
   
 }
 
-
-
-
-#frontpage{
-    font-family: 'Open Sans', sans-serif;
-    font-size: 40px;
+#content1 p{
+	font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
     color: #fff;
-    text-align: center;
     margin-bottom: 50px;
+    line-height: 150%
 }
 
 .navbar-brand{
@@ -52,23 +49,14 @@
 }
 
 #social ul li a:hover{
-	color: #FFFF66;
+	color: #FFFF99
 }
 
-
-#frontlogo{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 50px;
-}
-
-#contitle{
+#contitle1{
 	font-family: 'Righteous', cursive;
-	font-size: 40px;
-	text-align: center;
-	margin-bottom: 30px;
-	margin-top: 30px;
+	font-size: 60px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 #column-centre{
@@ -85,30 +73,30 @@
     background-color: #e6e6e6;
 }
 
-#event-box{
-	position: relative;
-	top: 50%;
-  	webkit-transform: translateY(-50%);
-  	padding-top: 9%;
-	padding-bottom: 9%;
-}
-
-#event-txt{
-	padding-top: 12%;
-	position: relative;
-	font-family: 'Open Sans', sans-serif;
-
-}
-
-#section2{
+#content2{
 	background-color: white;
-	position: relative;
-	top: 40%;
-  	webkit-transform: translateY(-50%);
 }
 
-#event-img{
-	border: solid 2px;
+#content2 p {
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 150%;
+    margin-bottom: 50px;
+
+}
+
+#content3{
+	background-color: #e6e6e6;
+}
+
+#content3 p{
+	color: #000;
+	font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 150%;
+    margin-bottom: 50px;
+
 }
 
 .img-thumbnail{
