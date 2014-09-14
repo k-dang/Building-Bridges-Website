@@ -1,3 +1,5 @@
 Building-Bridges-Website
 ========================
-website for Building Bridges 
+Building the McMaster Building Bridges' club website from the ground up
+
+Tools Used:html, css, javascript, Font Awesome, Bootstrap framework
