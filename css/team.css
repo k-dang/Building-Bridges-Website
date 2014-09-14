@@ -7,8 +7,46 @@
 }
 
 #content1{
-  background-color:#9cc6ea;
-  
+  background-color:#9cc6ea; 
+}
+
+#content1 img{
+	height: 160px;
+	width: 160px;
+}
+#content1 a{
+	text-decoration: none;
+	color: #999;
+}
+
+
+#content2{
+	background-color: white;
+}
+
+#content2 img{
+	height: 160px;
+	width: 160px;
+}
+
+#content2 a{
+	text-decoration: none;
+	color: #999;
+}
+
+#content3{
+	background-color: #e6e6e6
+}
+
+
+#content3 img{
+	height: 160px;
+	width: 160px;
+}
+
+#content3 a{
+	text-decoration: none;
+	color: #999;
 }
 
 .navbar-brand{
