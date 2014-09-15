@@ -82,6 +82,11 @@
     background-color: #e6e6e6;
 }
 
+#content2 img{
+	height: 160px;
+	width: 160px;
+}
+
 #event-box{
 	position: relative;
 	top: 50%;
