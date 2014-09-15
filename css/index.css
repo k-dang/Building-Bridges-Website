@@ -104,9 +104,14 @@
 
 #section2{
 	background-color: white;
-	position: relative;
 	top: 40%;
   	webkit-transform: translateY(-50%);
+  	text-align: center;
+}
+
+#section2 i{
+	font-size: 280px;
+	position: relative;
 }
 
 #event-img{
